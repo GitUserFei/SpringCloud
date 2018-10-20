@@ -8,7 +8,7 @@
 *.ipr
 
 # eclipse
-/.settings
+.settings
 .classpath
 .project
 
